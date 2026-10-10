@@ -7,6 +7,7 @@
 [![HACKERING 2.0](https://img.shields.io/badge/HACKERING%202.0-Round%202-blueviolet.svg?style=flat)]()
 [![Voice AI Track](https://img.shields.io/badge/Track-Voice%20AI-orange.svg?style=flat)]()
 [![Team](https://img.shields.io/badge/Team-Knight%20Coders-blue.svg?style=flat)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-knight--1.onrender.com-brightgreen.svg?style=flat&logo=render)](https://knight-1.onrender.com/)
 [![Repository](https://img.shields.io/badge/Repo-HR2--OI--6C86C871-purple.svg?style=flat)]()
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Groq LPU](https://img.shields.io/badge/AI%20Hardware-Groq%20LPU-f55036.svg?style=flat)](https://groq.com/)
@@ -18,6 +19,8 @@
 ---
 
 ## 🌟 Overview
+
+> 🚀 **Live Production Application:** [https://knight-1.onrender.com/](https://knight-1.onrender.com/)
 
 **Vidara AI** is a state-of-the-art video and podcast intelligence platform built for deep long-form video comprehension (1–2hr+ podcasts, keynotes, university lectures, and founder interviews). It eliminates the core frustrations of traditional video clippers: clips that are either arbitrarily cut, bloated with irrelevant banter, or missing the framing question that gives a speaker's answer its meaning.
 
