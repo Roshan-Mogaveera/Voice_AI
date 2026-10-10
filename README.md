@@ -2,6 +2,8 @@
 > *"Understand Every Moment."*  
 > **Autonomous Long-Form Video Comprehension, Speaker Diarization, Podcast Intelligence & Semantic Extraction Engine**
 
+
+
 [![HACKERING 2.0](https://img.shields.io/badge/HACKERING%202.0-Round%202-blueviolet.svg?style=flat)]()
 [![Voice AI Track](https://img.shields.io/badge/Track-Voice%20AI-orange.svg?style=flat)]()
 [![Team](https://img.shields.io/badge/Team-Knight%20Coders-blue.svg?style=flat)]()
